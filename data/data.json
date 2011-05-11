@@ -1,0 +1,76 @@
+{ "events": [
+  {
+    "id": "bpm-be",
+    "name": "Agiles BPM in der Praxis",
+    "location": "Bern",
+    "date": "2011-03-22",
+    "speakers": ["ruecker"]
+  },
+  {
+    "id": "bpm-zh",
+    "name": "Agiles BPM in der Praxis",
+    "location": "Zurich",
+    "date": "2011-03-23",
+    "speakers": ["ruecker"]
+  },
+  {
+    "id": "jvm-analyse",
+    "name": "Was steckt hinter dem Hype der neuen JVM Sprachen?",
+    "location": "Zurich",
+    "date": "2011-04-07",
+    "speakers": ["oser"]
+  },
+  {
+    "id": "html5",
+    "name": "HTML5 in der (mobilen) Praxis",
+    "abstract": "Es ist schon weit über 10 Jahre her seit anno 1997 (n. Chr.) der letzte HTML Standard verabschiedet wurde. Seither hat sich die Web-Technologie aber weiterentwickelt und 'neue' Konzepte wie AJAX sind entstanden. HTML5 erweitert den Baukasten um interessante Features wie Geolocation-API, Offline-Applikationen, Local Storage und neue Multimedia-Elemente. Der erste Teil des Events zeigt die schöne neue Welt von HTML5 und was davon bereits heute sinnvoll einsatzfähig ist. Im zweiten Teil des Events wird auf die Bedeutung von HTML5 für das mobile Web eingegangen. Die neuen APIs und Funktionen von HTML5 machen Web-Applikationen für viele Anwendungsfälle zu einer echten Alternative zu nativen Apps. Wir werden auf Unterschiede und Gemeinsamkeiten eingehen und anhand eines Beispiels zeigen, wie man mit HTML5 und der Javascript-Bibliothek JQueryMobile Applikationen für mobile und touch-basierte Geräte bauen kann.",
+    "location": "Zurich",
+    "date": "2011-05-11",
+    "speakers": ["koelliker", "decurtins"]
+  },
+  {
+    "id": "augs-zh",
+    "name": "Scrum: Wie sinnvoll ist der Einsatz von Tools?",
+    "location": "Zurich",
+    "date": "2011-05-17",
+    "speakers": ["ramseyer", "sprecher"]
+  },
+  {
+    "id": "augs-be",
+    "name": "Scrum: Wie sinnvoll ist der Einsatz von Tools?",
+    "location": "Bern",
+    "date": "2011-06-08",
+    "speakers": ["ramseyer", "sprecher"]
+  }
+], "speakers": [
+  {
+    "id": "decurtins",
+    "name": "Corsin Decurtins",
+    "affiliation": "Netcetera"
+  },
+  {
+    "id": "koelliker",
+    "name": "Mischa Kölliker",
+    "affiliation": "Trivadis"
+  },
+  {
+    "id": "ramseyer",
+     "name": "Mischa Ramseyer",
+     "affiliation": "pragmatic solutions gmbh"
+  },
+  {
+    "id": "sprecher",
+     "name": "Philipp Sprecher",
+     "affiliation": "insign gmbh"
+  },
+  {
+    "id": "oser",
+     "name": "Philipp Oser",
+     "affiliation": "ELCA"
+  },
+  {
+    "id": "ruecker",
+     "name": "Bernd Rücker",
+     "affiliation": "camunda services GmbH"
+  }
+]}

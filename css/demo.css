@@ -1,0 +1,107 @@
+@font-face {
+    font-family: 'LeagueGothicRegular';
+    src: url('../fonts/League_Gothic-webfont-eot.eot?') format('eot'),
+         url('../fonts/League_Gothic-webfont-woff.woff') format('woff'),
+         url('../fonts/League_Gothic-webfont-ttf.ttf') format('truetype'),
+         url('../fonts/League_Gothic-webfont-svg.svg#webfont1Lb5Pdit') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h2 {
+  font-family: 'LeagueGothicRegular', Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: xx-large;
+  font-weight: normal;
+}
+
+li h2 {
+  font-family: inherit;
+}
+
+h3 {
+  font-family: 'LeagueGothicRegular', Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: x-large;
+  font-weight: normal;
+}
+
+.ui-page-fullscreen .ui-content {
+  padding: 2ex;
+}
+
+.ui-link {
+  color: #900000 !important;
+}
+
+.ui-btn-active {
+  color: white;
+  border: 1px solid #900000;
+  background: #900000;
+}
+
+div#splash {
+  background: #ffffff;
+}
+
+div#splash .ui-content {
+  text-align: center;
+  padding: 10ex;
+}
+
+img.logo {
+  padding-right: 4ex;
+  padding-bottom: 1ex;
+}
+
+div#about div.logos {
+  float: none;
+  padding-right: 8ex;
+  padding-bottom: 1ex;
+}
+
+.min-width-768px div#about div.logos {
+  float: left;
+}
+
+div#about div.logos img.logo {
+  display: block;
+  padding-bottom: 2ex;
+}
+
+.min-width-768px div#about div.logos img.logo {
+  display: block;
+}
+
+div#eventAbstractColumn {
+  width: 55%;
+  float: left;
+  padding-right: 5%;
+}
+
+div#eventSpeakersColumn {
+  float: right;
+  width: 35%;
+}
+
+.max-width-768px div#eventAbstractColumn {
+  width: 100%;
+  float: none;
+  padding-right: 0px;
+}
+
+.max-width-768px div#eventSpeakersColumn {
+  float: none;
+  width: 100%;
+}
+
+#sponsors img {
+  padding: 1ex;
+}
+
+#events li.localEvent {
+  border: 1px solid #900000;
+  color: #900000 !important;
+}
+
+#events li.localEvent a.ui-link-inherit {
+  color: #900000 !important;
+}
