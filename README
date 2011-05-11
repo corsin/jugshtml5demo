@@ -1,6 +1,8 @@
-Java User Group Switzerland | HTML5 Demo Application
-====================================================
+HTML5 Demo Application
+======================
 
-Corsin Decurtins
+Corsin Decurtins, 2011-05-11
 
-This is a simple demo application that was written for the HTML5 talk at the Java User Group Switzerland.
+This is a simple demo application for mobile and touch-based devices that was written for an HTML5 talk at the Java User Group Switzerland.
+
+The code probably contains various bugs and is untested on anything but iOS devices. So it's definitely not ready for production. But feel free to use as an example and as a base for your HTML5 and JQueryMobile projects.
